@@ -1,0 +1,3 @@
+[submodule "payment-krakend"]
+	path = payment-krakend
+	url = https://github.com/3ima-01/payment-krakend
